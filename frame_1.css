@@ -1,0 +1,376 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 998px; width: 998px; height: 1028px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+ #page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 998px;
+	height: 1028px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 998px;
+	height: 1028px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_7 {
+	top: -101px;
+	left: 542px;
+	width: 479.4px;
+	height: 653.56px;
+	-ms-border-radius: 218px;
+	-o-border-radius: 218px;
+	-moz-border-radius: 218px;
+	-webkit-border-radius: 218px;
+	border-radius: 218px;
+	
+	-ms-transform:rotate(32.85deg);
+	-o-transform:rotate(32.85deg);
+	-webkit-transform:rotate(32.85deg);
+	-moz-transform:rotate(32.85deg);
+	transform:rotate(32.85deg);
+	background:rgba(223,133,27,1);
+} 
+
+
+#beu_delivery {
+	top: 54px;
+	left: 50px;
+	width: 166px;
+	height: 82px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 20px;
+	text-align: left;
+	color:#DF851B;
+}
+
+
+#rectangle_1 {
+	top: 15px;
+	left: 50px;
+	width: 30px;
+	height: 50px;
+}
+
+#searchb{
+	opacity:0.93999999761581;
+	top: 20px;
+	left: 517px;
+	width: 119px;
+	height: 20px;
+
+	border-radius: 13px;
+	background:rgba(217,217,217,0.94);
+}
+/* #seabox {
+	opacity:0.93999999761581;
+	top: 36px;
+	left: 517px;
+	width: 119px;
+	height: 20px;
+	-ms-border-radius: 13px;
+	-o-border-radius: 13px;
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	background:rgba(217,217,217,0.94);
+} */
+
+
+/* #rectangle_8 {
+	opacity:0.93999999761581;
+	top: 35px;
+	left: 649px;
+	width: 280px;
+	height: 20px;
+	-ms-border-radius: 13px;
+	-o-border-radius: 13px;
+	-moz-border-radius: 13px;
+	-webkit-border-radius: 13px;
+	border-radius: 13px;
+	background:rgba(217,217,217,0.94);
+} */
+
+
+#pages {
+	top: 20px;
+	left: 863px;
+	width: 89px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#blog {
+	top: 20px;
+	left: 770px;
+	width: 74px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#home {
+	top: 20px;
+	left: 676px;
+	width: 86px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+#delivery{
+	top: 20px;
+	left: 940px;
+	width: 86px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 10px;
+	text-align: left;
+	color:#000000;
+}
+
+#search {
+	top: 20px;
+	left: 531px;
+	width: 60.5px;
+	height: 20.5px;
+	overflow: hidden;
+    font-family: Handlee;;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_4 {
+	top: 20px;
+	left: 585px;
+	width: 20px;
+	height: 20px;
+}
+
+
+#stay_healthy_and_choose_your_taste {
+	top: 173px;
+	left: 50px;
+	width: 652.5px;
+	height: 164.5px;
+	overflow: hidden;
+	font-family: KoHo;
+	font-size: 43px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#food_is_symbol_of_love_when_words_are_inadequate {
+	top: 309px;
+	left: 54px;
+	width: 171px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_6 {
+	top: 390px;
+	left: 259px;
+	width: 161px;
+	height: 50px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	background:rgba(223,133,27,1);
+}
+
+
+#order_now {
+	top: 397px;
+	left: 278px;
+	width: 154px;
+	height: 53px;
+	overflow: hidden;
+	font-family: Handlee;
+	font-size: 26px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ellipse_1 {
+	top: 133px;
+	left: 552px;
+	width: 374.94px;
+	height: 340.19px;
+	border-radius: 40%;
+	transform: rotate(35deg);
+}
+
+
+#rectangle_14 {
+	opacity:0.31000000238419;
+	top: 547px;
+	left: 90px;
+	width: 142px;
+	height: 294px;
+	-ms-border-radius: 65px;
+	-o-border-radius: 65px;
+	-moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+	border-radius: 65px;
+	background:rgba(217,217,217,0.31);
+}
+
+
+#rectangle_15 {
+	opacity:0.31000000238419;
+	top: 543px;
+	left: 411px;
+	width: 142px;
+	height: 298px;
+	-ms-border-radius: 65px;
+	-o-border-radius: 65px;
+	-moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+	border-radius: 65px;
+	background:rgba(217,217,217,0.31);
+}
+
+
+#rectangle_16 {
+	opacity:0.31000000238419;
+	top: 554px;
+	left: 714px;
+	width: 142px;
+	height: 287px;
+	-ms-border-radius: 65px;
+	-o-border-radius: 65px;
+	-moz-border-radius: 65px;
+	-webkit-border-radius: 65px;
+	border-radius: 65px;
+	background:rgba(217,217,217,0.31);
+}
+
+
+#chicken_burger_250_00br {
+	top: 696px;
+	left: 113px;
+	width: 115px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: KoHo;
+	font-size: 23px;
+	text-align: center;
+	line-height: 26.748999714851px;
+	color:#000000;
+}
+
+
+#beef_burger_300_00br {
+	top: 719px;
+	left: 423px;
+	width: 131px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: KoHo;
+	font-size: 23px;
+	text-align: center;
+	line-height: 26.748999714851px;
+	color:#000000;
+}
+
+
+#tuna_pizza_180_00br {
+	top: 719px;
+	left: 730px;
+	width: 119px;
+	height: 70.5px;
+	overflow: hidden;
+	font-family: KoHo;
+	font-size: 23px;
+	text-align: center;
+	line-height: 26.748999714851px;
+	color:#000000;
+}
+
+
+#ellipse_2 {
+	top: 554px;
+	left: 90px;
+	width: 138px;
+	height: 140px;
+	border-radius: 30%;
+}
+
+
+#ellipse_3 {
+	top: 543px;
+	left: 413px;
+	width: 138px;
+	height: 140px;
+	border-radius: 30%;
+}
+
+
+#ellipse_4 {
+	top: 545px;
+	left: 714px;
+	width: 138px;
+	height: 140px;
+	border-radius: 30%;
+}
+
+
+#fair_price_with_fast_delivery____beu_delivery_your_number_choice {
+	top: 931px;
+	left: 282px;
+	width: 385px;
+	height: 97.5px;
+	overflow: hidden;
+	font-family: KoHo;
+	font-size: 23px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 26.748999714851px;
+	color:#DF851B;
+}
+
+
+
+
